@@ -1,10 +1,10 @@
 # AQA Computer Science Paper 1 Preparation by YuriODev 📘
 
-![GitHub contributors](https://img.shields.io/github/contributors/YuriODev/AQA-CompSci-Paper1-Prep?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YuriODev/AQA-CompSci-Paper1-Prep?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YuriODev/AQA-CompSci-Paper1-Prep?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/YuriODev/AQA-CompSci-Paper1-Prep?style=for-the-badge)
-![License](https://img.shields.io/github/license/YuriODev/AQA-CompSci-Paper1-Prep?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
+![License](https://img.shields.io/github/license/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
 
 The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensive program designed to equip students with the knowledge and skills required to excel in the AQA GCSE Computer Science Paper 1 exam. This course focuses on Python programming and covers all topics specified in the AQA syllabus.
 
@@ -50,7 +50,7 @@ The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YuriODev/AQA-CompSci-Paper1-Prep.git
+   git clone https://github.com/YuriiOks/AQA-Computer-Science-Preparation.git
    ```
 2. **Explore the modules**:
    - Navigate to the week you're working on.
@@ -118,7 +118,7 @@ Your feedback is valuable! If you have suggestions or comments, please raise an 
 
 ### 📞 Contact Me
 
-[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge)](mailto:contact@yuriodev.co.uk)
+[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge)](mailto:contact@YuriiOks.co.uk)
 
 ## 📝 License
 
@@ -128,9 +128,9 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to fork a
 
 If you find this course helpful and would like to support its development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yuriodev)
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/yuriodev)
-[![Patreon](https://img.shields.io/badge/Support-Patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/YuriODev)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/YuriiOks)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/YuriiOks)
+[![Patreon](https://img.shields.io/badge/Support-Patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/YuriiOks)
 
 Every contribution helps and is greatly appreciated! 🙏
 
