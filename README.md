@@ -1,4 +1,4 @@
-# AQA Computer Science Preparation by YuriODev 📘
+# AQA GCSE Computer Science Preparation by YuriODev 📘
 
 ![GitHub contributors](https://img.shields.io/github/contributors/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
