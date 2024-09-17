@@ -41,7 +41,7 @@ The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensi
 
 ## 🔧 Key Features
 
-- **Comprehensive Coverage**: Aligns with the AQA GCSE Computer Science Paper 1 specification.
+- **Comprehensive Coverage**: Aligns with the AQA GCSE Computer Science specification.
 - **Python Focused**: All programming examples and exercises use Python 3.
 - **Practical Exercises**: Hands-on coding tasks and problem-solving activities.
 - **Resource-Rich**: Includes notes, code examples, lesson presentations, and more.
