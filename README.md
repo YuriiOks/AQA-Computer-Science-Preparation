@@ -12,31 +12,31 @@ The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensi
 
 | **Week** | **Topic** | **Description** |
 |-|--|--|
-| **1** | [Introduction to Computational Thinking](./01%20-%20Introduction%20to%20Computational%20Thinking) 🧠 | Understanding algorithms, abstraction, and decomposition. |
-| **2** | [Representing Algorithms](./02%20-%20Representing%20Algorithms) 🔄 | Writing algorithms using pseudocode and flowcharts. |
-| **3** | [High-level vs Low-level Languages](./03%20-%20High-level%20vs%20Low-level%20Languages) 💻 | Overview of programming languages with a focus on Python. |
-| **4** | [Searching Algorithms](./04%20-%20Searching%20Algorithms) 🔍 | Implementing linear and binary search in Python. |
-| **5** | [Sorting Algorithms](./05%20-%20Sorting%20Algorithms) 🔃 | Understanding and coding bubble sort and merge sort. |
-| **6** | [Data Types and Data Structures](./06%20-%20Data%20Types%20and%20Data%20Structures%20in%20Python) 💾 | Working with data types, arrays, and records in Python. |
-| **7** | [Variables, Constants, and Operators](./07%20-%20Variables%20Constants%20and%20Operators) 📊 | Using variables, constants, and different operators. |
-| **8** | [Random Number Generation](./08%20-%20Random%20Number%20Generation%20in%20Python) 🎲 | Using randomness in Python programs. |
-| **9** | [Control Structures Part 1](./09%20-%20Control%20Structures%20in%20Python%20(Part%201)) 📈 | Sequence, selection statements, and nested selection. |
-| **10** | [Control Structures Part 2](./10%20-%20Control%20Structures%20in%20Python%20(Part%202)) 📈 | Iteration with loops and nested iteration structures. |
-| **11** | [Structured Programming and Subroutines Part 1](./11%20-%20Structured%20Programming%20and%20Subroutines%20(Part%201)) 📝 | Understanding functions and passing data with parameters. |
-| **12** | [Structured Programming and Subroutines Part 2](./12%20-%20Structured%20Programming%20and%20Subroutines%20(Part%202)) 📝 | Return values, local variables, and programming principles. |
-| **13** | [String Handling](./13%20-%20String%20Handling%20in%20Python) 🔠 | Manipulating text using Python string methods. |
-| **14** | [Advanced Data Structures](./14%20-%20Advanced%20Data%20Structures%20in%20Python) 🗃️ | Working with two-dimensional arrays and records. |
-| **15** | [Testing and Debugging](./15%20-%20Testing%20and%20Debugging%20in%20Python) 🐞 | Techniques for testing and debugging Python code. |
-| **16** | [Robust and Secure Programming](./16%20-%20Robust%20and%20Secure%20Programming) 🚫 | Input validation and authentication routines. |
-| **17** | [Fundamentals of Data Representation Part 1](./17%20-%20Fundamentals%20of%20Data%20Representation%20(Part%201)) 🔢 | Number bases and units of information. |
-| **18** | [Fundamentals of Data Representation Part 2](./18%20-%20Fundamentals%20of%20Data%20Representation%20(Part%202)) 🔢 | Binary arithmetic and character encoding. |
-| **19** | [Data Representation of Images and Sound](./19%20-%20Data%20Representation%20of%20Images%20and%20Sound) 🔢 | How images and sound are represented in binary. |
-| **20** | [Data Compression Techniques](./20%20-%20Data%20Compression%20Techniques) 📝 | Understanding and applying compression methods. |
-| **21** | [Relational Databases and SQL Part 1](./21%20-%20Relational%20Databases%20and%20SQL%20Basics%20(Part%201)) 📝 | Introduction to databases and key concepts. |
-| **22** | [Relational Databases and SQL Part 2](./22%20-%20Relational%20Databases%20and%20SQL%20Basics%20(Part%202)) 📝 | Primary keys, foreign keys, and database design. |
-| **23** | [Structured Query Language (SQL)](./23%20-%20Structured%20Query%20Language%20(SQL)) 💾 | Performing data manipulation using SQL commands. |
-| **24** | [Exam Practice – Algorithms and Pseudocode](./24%20-%20Exam%20Practice%20-%20Algorithms%20and%20Pseudocode) 📝 | Tracing algorithms and writing pseudocode. |
-| **25** | [Final Exam Preparation and Q&A](./25%20-%20Final%20Exam%20Preparation%20and%20Q&A) 🎯 | Mock exams and final revision strategies. |
+| **1** | [Introduction to Computational Thinking](./Course%20Materials/01%20-%20Introduction%20to%20Computational%20Thinking) 🧠 | Understanding algorithms, abstraction, and decomposition. |
+| **2** | [Representing Algorithms](./Course%20Materials/02%20-%20Representing%20Algorithms) 🔄 | Writing algorithms using pseudocode and flowcharts. |
+| **3** | [High-level vs Low-level Languages](./Course%20Materials/03%20-%20High-level%20vs%20Low-level%20Languages) 💻 | Overview of programming languages with a focus on Python. |
+| **4** | [Searching Algorithms](./Course%20Materials/04%20-%20Searching%20Algorithms) 🔍 | Implementing linear and binary search in Python. |
+| **5** | [Sorting Algorithms](./Course%20Materials/05%20-%20Sorting%20Algorithms) 🔃 | Understanding and coding bubble sort and merge sort. |
+| **6** | [Data Types and Data Structures](./Course%20Materials/06%20-%20Data%20Types%20and%20Data%20Structures%20in%20Python) 💾 | Working with data types, arrays, and records in Python. |
+| **7** | [Variables, Constants, and Operators](./Course%20Materials/07%20-%20Variables%20Constants%20and%20Operators) 📊 | Using variables, constants, and different operators. |
+| **8** | [Random Number Generation](./Course%20Materials/08%20-%20Random%20Number%20Generation%20in%20Python) 🎲 | Using randomness in Python programs. |
+| **9** | [Control Structures Part 1](./Course%20Materials/09%20-%20Control%20Structures%20in%20Python%20(Part%201)) 📈 | Sequence, selection statements, and nested selection. |
+| **10** | [Control Structures Part 2](./Course%20Materials/10%20-%20Control%20Structures%20in%20Python%20(Part%202)) 📈 | Iteration with loops and nested iteration structures. |
+| **11** | [Structured Programming and Subroutines Part 1](./Course%20Materials/11%20-%20Structured%20Programming%20and%20Subroutines%20(Part%201)) 📝 | Understanding functions and passing data with parameters. |
+| **12** | [Structured Programming and Subroutines Part 2](./Course%20Materials/12%20-%20Structured%20Programming%20and%20Subroutines%20(Part%202)) 📝 | Return values, local variables, and programming principles. |
+| **13** | [String Handling](./Course%20Materials/13%20-%20String%20Handling%20in%20Python) 🔠 | Manipulating text using Python string methods. |
+| **14** | [Advanced Data Structures](./Course%20Materials/14%20-%20Advanced%20Data%20Structures%20in%20Python) 🗃️ | Working with two-dimensional arrays and records. |
+| **15** | [Testing and Debugging](./Course%20Materials/15%20-%20Testing%20and%20Debugging%20in%20Python) 🐞 | Techniques for testing and debugging Python code. |
+| **16** | [Robust and Secure Programming](./Course%20Materials/16%20-%20Robust%20and%20Secure%20Programming) 🚫 | Input validation and authentication routines. |
+| **17** | [Fundamentals of Data Representation Part 1](./Course%20Materials/17%20-%20Fundamentals%20of%20Data%20Representation%20(Part%201)) 🔢 | Number bases and units of information. |
+| **18** | [Fundamentals of Data Representation Part 2](./Course%20Materials/18%20-%20Fundamentals%20of%20Data%20Representation%20(Part%202)) 🔢 | Binary arithmetic and character encoding. |
+| **19** | [Data Representation of Images and Sound](./Course%20Materials/19%20-%20Data%20Representation%20of%20Images%20and%20Sound) 🔢 | How images and sound are represented in binary. |
+| **20** | [Data Compression Techniques](./Course%20Materials/20%20-%20Data%20Compression%20Techniques) 📝 | Understanding and applying compression methods. |
+| **21** | [Relational Databases and SQL Part 1](./Course%20Materials/21%20-%20Relational%20Databases%20and%20SQL%20Basics%20(Part%201)) 📝 | Introduction to databases and key concepts. |
+| **22** | [Relational Databases and SQL Part 2](./Course%20Materials/22%20-%20Relational%20Databases%20and%20SQL%20Basics%20(Part%202)) 📝 | Primary keys, foreign keys, and database design. |
+| **23** | [Structured Query Language (SQL)](./Course%20Materials/23%20-%20Structured%20Query%20Language%20(SQL)) 💾 | Performing data manipulation using SQL commands. |
+| **24** | [Exam Practice – Algorithms and Pseudocode](./Course%20Materials/24%20-%20Exam%20Practice%20-%20Algorithms%20and%20Pseudocode) 📝 | Tracing algorithms and writing pseudocode. |
+| **25** | [Final Exam Preparation and Q&A](./Course%20Materials/25%20-%20Final%20Exam%20Preparation%20and%20Q&A) 🎯 | Mock exams and final revision strategies. |
 
 
 ## 🔧 Key Features
@@ -66,11 +66,14 @@ The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensi
 ## 📂 Directory Structure
 
 ```
-├── Week 01 - Introduction to Computational Thinking
-│   ├── Notes
-│   ├── Code Examples
-│   ├── Exercises
-│   └── Presentations
+AQA-Computer-Science-Preparation/
+│
+├── Course Materials/
+│   ├── 01 - Introduction to Computational Thinking/
+│   │   ├── Notes
+│   │   ├── Code Examples
+│   │   ├── Exercises
+│   │   └── Presentations
 ├── Week 02 - Representing Algorithms
 │   ├── ...
 ├── ...
