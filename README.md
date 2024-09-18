@@ -6,7 +6,13 @@
 ![Issues](https://img.shields.io/github/issues/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
 ![License](https://img.shields.io/github/license/YuriiOks/AQA-Computer-Science-Preparation?style=for-the-badge)
 
-The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensive program designed to equip students with the knowledge and skills required to excel in the AQA GCSE Computer Science Paper 1 exam. This course focuses on Python programming and covers all topics specified in the AQA syllabus.
+The **AQA Computer Science Paper 1 Preparation Course** is a 25-week comprehensive program designed to equip students with the knowledge and skills required to excel in the AQA GCSE Computer Science exam. This course focuses on Python programming and covers all topics specified in the AQA syllabus.
+
+## 📱 Join Our Community
+
+[![Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/yuriodev_aqa_gcse)
+[![Discord](https://img.shields.io/badge/Join%20Us%20on-Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/6d9Fcd9V)
+
 
 ## 🌟 Course Outline
 
